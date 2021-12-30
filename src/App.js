@@ -9,7 +9,7 @@ const TWITTER_HANDLE = "smoothlikebuddy";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const OPENSEA_LINK =
     "https://testnets.opensea.io/collection/squarenft-iy1q3coxs5";
-const TOTAL_MINT_COUNT = 50;
+// const TOTAL_MINT_COUNT = 50;
 const CONTRACT_ADDRESS = "0xB7f3b4320545F21362d02a27BC41dbe8492aD179";
 
 const App = () => {
